@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c38a018.chunk.css",
+    "main.css": "/static/css/main.dec60392.chunk.css",
     "main.js": "/static/js/main.6b005c6e.chunk.js",
     "runtime~main.js": "/static/js/runtime~main.53b5d61a.js",
     "static/css/2.41e35f1d.chunk.css": "/static/css/2.41e35f1d.chunk.css",
     "static/js/2.49ce9d83.chunk.js": "/static/js/2.49ce9d83.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.74b798f93c71cbbbcd1e1489be8aabf7.js": "/precache-manifest.74b798f93c71cbbbcd1e1489be8aabf7.js",
+    "precache-manifest.80dbcca0a77ea489d2dfb449aeac628c.js": "/precache-manifest.80dbcca0a77ea489d2dfb449aeac628c.js",
     "service-worker.js": "/service-worker.js",
-    "static/media/image_cut.less": "/static/media/emui-icon5.41ba6fbf.png",
+    "static/media/image_cut.less": "/static/media/emui-icon.ee50242b.png",
     "static/media/logo.png": "/static/media/logo.cde88ea6.png"
   }
 }
